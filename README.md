@@ -9,6 +9,7 @@ The dataset is called **Face expression recognition dataset**, and consists of 4
 You can find and download the dataset from [here](https://www.kaggle.com/datasets/jonathanoheix/face-expression-recognition-dataset)
 
 
+
 ### **Inspiration**
 * Detect emotional expressions.
 * Measure how many times each emotional expression appeared.
