@@ -14,4 +14,3 @@ You can find and download the dataset from [here](https://www.kaggle.com/dataset
 * Detect emotional expressions.
 * Measure how many times each emotional expression appeared.
 * Measure the percentage of each emotional expression that appeared.
-
